@@ -38,7 +38,7 @@ var options = {
 var modes = [
   { label: "Close", detail: "Disable Cloud Proxy", value: "0" },
   { label: "UDP Mode", detail: "Enable Cloud Proxy via UDP protocol", value: "3" },
-  { label: "TCP Mode", detail: "Enable Cloud Proxy via TCP/TLS port 443", value: "3" },
+  { label: "TCP Mode", detail: "Enable Cloud Proxy via TCP/TLS port 443", value: "5" },
 ]
 
 var mode;
